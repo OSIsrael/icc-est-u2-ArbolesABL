@@ -7,5 +7,7 @@ public class App {
         arbolito.insert(10);
         arbolito.insert(20);
         arbolito.insert(15);
+        arbolito.inOrderPrint(); // para ver los valores ordenados
+
     }
 }
